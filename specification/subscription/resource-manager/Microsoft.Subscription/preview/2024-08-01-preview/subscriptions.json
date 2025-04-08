@@ -1622,7 +1622,7 @@
       }
     },
     "TransferResponse": {
-      "description": "Details of the transfer response.",
+      "description": "Details of the Transfer Response.",
       "type": "object",
       "properties": {
         "transferId": {
@@ -1652,7 +1652,7 @@
           "format": "date-time"
         },
         "status": {
-          "description": "The current status of the transfer.",
+          "description": "The current status of the transfer",
           "type": "string",
           "enum": [
             "Pending",
