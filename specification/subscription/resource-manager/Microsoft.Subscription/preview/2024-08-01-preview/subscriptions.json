@@ -1622,7 +1622,7 @@
       }
     },
     "TransferResponse": {
-      "description": "Details of the Transfer Response.",
+      "description": "Details of the transfer response.",
       "type": "object",
       "properties": {
         "transferId": {
